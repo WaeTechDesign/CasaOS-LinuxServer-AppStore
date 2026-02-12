@@ -1,7 +1,6 @@
-[
-  {
-    "name": "HackWae-Appstore",
-    "font": "penguin",
-    "description": ""
-  }
-]
+{
+  "Media": [
+    "Jellyfin",
+    "hackwae-jellyfin"
+  ]
+}
